@@ -43,10 +43,6 @@ class Chef
         end
       end
 
-      # Octokit.configure do |c|
-      #   c.api_endpoint = "http://github.gapinc.dev/api/v3/"
-      #   c.web_endpoint = 'http://github.gapinc.dev/'
-      # end
 
       # client = Octokit::Client.new(:login => username, :password => pass)
 
