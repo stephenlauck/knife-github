@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "knife-github"
   spec.version       = Knife::Github::VERSION
   spec.authors       = ["Stephen Lauck"]
-  spec.email         = ["stephen_lauck@gap.com"]
+  spec.email         = ["stephen.lauck@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""

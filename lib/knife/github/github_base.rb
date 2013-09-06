@@ -1,6 +1,6 @@
 #
-# Author:: Stephen Lauck (<stephen_lauck@gap.com>)
-# Copyright:: Copyright (c) 2013 Gap, Inc.
+# Author:: Stephen Lauck (<stephen.lauck@gmail.com>)
+# Copyright:: Copyright (c) 2013 
 # License:: Apache License, Version 2.0
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
